@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Salcedo0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<!---
-Salcedo0/Salcedo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Salcedo0 Fullstack developer
+- 👀 I’m interested in Front and backend deveopment, i love using all kind of technologies to improve my desings
+- 🌱 I’m currently learning three js, flutter and C#
+- 📫 How to reach me : jandres.salcedoy@gmail.com , jasalcedoy@eafit.edu.co
