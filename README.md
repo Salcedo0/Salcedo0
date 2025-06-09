@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Salcedo0 Fullstack developer
 - 👀 I’m interested in Front and backend deveopment, i love using all kind of technologies to improve my desings
-- 🌱 I’m currently learning three js, flutter and C#
+- 🌱 I’m currently learning three js, flutter and Go
 - 📫 How to reach me : jandres.salcedoy@gmail.com , jasalcedoy@eafit.edu.co
